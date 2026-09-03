@@ -1,0 +1,164 @@
+Name,Team,Position,CalculatedFantasyPoints_StdPPPRIDP,replacement_points,VOR,Cluster,Tier,TierLabel
+L.Jackson,BAL,QB,399.0,105.3,293.7,1,0,Tier 1 — Elite
+J.Burrow,CIN,QB,307.0,105.3,201.7,1,0,Tier 1 — Elite
+J.Allen,BUF,QB,370.0,105.3,264.7,1,0,Tier 1 — Elite
+B.Mayfield,TB,QB,306.0,105.3,200.7,1,0,Tier 1 — Elite
+J.Daniels,WAS,QB,324.0,105.3,218.7,1,0,Tier 1 — Elite
+P.Mahomes,KC,QB,279.0,105.3,173.7,1,0,Tier 1 — Elite
+J.Hurts,PHI,QB,314.0,105.3,208.7,1,0,Tier 1 — Elite
+J.Goff,DET,QB,271.5,105.3,166.2,2,1,Tier 2 — High-End Starters
+A.Richardson,IND,QB,157.0,105.3,51.7,0,2,Tier 3 — Average Performers
+T.Tagovailoa,MIA,QB,159.0,105.3,53.7,0,2,Tier 3 — Average Performers
+D.Maye,NE,QB,184.0,105.3,78.7,0,2,Tier 3 — Average Performers
+B.Young,CAR,QB,166.0,105.3,60.7,0,2,Tier 3 — Average Performers
+S.Barkley,PHI,RB,351.0,65.19,285.81,1,0,Tier 1 — Elite
+D.Henry,BAL,RB,320.0,65.19,254.81,1,0,Tier 1 — Elite
+B.Robinson,ATL,RB,318.0,65.19,252.81,1,0,Tier 1 — Elite
+J.Gibbs,DET,RB,331.0,65.19,265.81,1,0,Tier 1 — Elite
+D.Achane,MIA,RB,284.0,65.19,218.81,1,0,Tier 1 — Elite
+J.Jacobs,GB,RB,267.0,65.19,201.81,1,0,Tier 1 — Elite
+A.Kamara,NO,RB,240.0,65.19,174.81,1,0,Tier 1 — Elite
+J.Taylor,IND,RB,225.0,65.19,159.81,2,1,Tier 2 — High-End Starters
+K.Walker III,SEA,RB,203.0,65.19,137.81,2,1,Tier 2 — High-End Starters
+C.Brown,CIN,RB,223.0,65.19,157.81,2,1,Tier 2 — High-End Starters
+J.Chase,CIN,WR,384.5,91.89,292.61,1,0,Tier 1 — Elite
+J.Jefferson,MIN,WR,304.0,91.89,212.11,1,0,Tier 1 — Elite
+A.St. Brown,DET,WR,304.0,91.89,212.11,1,0,Tier 1 — Elite
+C.Lamb,DAL,WR,270.0,91.89,178.11,1,0,Tier 1 — Elite
+N.Collins,HOU,WR,224.0,91.89,132.11,2,1,Tier 2 — High-End Starters
+M.Nabers,NYG,WR,246.0,91.89,154.11,2,1,Tier 2 — High-End Starters
+B.Thomas Jr.,JAX,WR,265.0,91.89,173.11,1,0,Tier 1 — Elite
+P.Nacua,LAR,WR,208.0,91.89,116.11,2,1,Tier 2 — High-End Starters
+A.Brown,PHI,WR,215.0,91.89,123.11,2,1,Tier 2 — High-End Starters
+T.McLaurin,WAS,WR,235.0,91.89,143.11,2,1,Tier 2 — High-End Starters
+T.Higgins,CIN,WR,203.0,91.89,111.11,2,1,Tier 2 — High-End Starters
+Z.Flowers,BAL,WR,202.0,91.89,110.11,2,1,Tier 2 — High-End Starters
+B.Bowers,LV,TE,256.0,57.98,198.02,1,0,Tier 1 — Elite
+G.Kittle,SF,TE,216.0,57.98,158.02,2,1,Tier 2 — High-End Starters
+T.McBride,ARI,TE,204.5,57.98,146.52,2,1,Tier 2 — High-End Starters
+T.Kelce,KC,TE,197.0,57.98,139.02,2,1,Tier 2 — High-End Starters
+T.Watt,PIT,LB,176.5,48.0,128.5,2,1,Tier 2 — High-End Starters
+F.Warner,SF,LB,231.5,48.0,183.5,1,0,Tier 1 — Elite
+R.Smith,BAL,LB,232.5,48.0,184.5,1,0,Tier 1 — Elite
+M.Garrett,CLE,DL,132.5,49.28,83.22,0,2,Tier 3 — Average Performers
+T.Hendrickson,CIN,DL,139.0,49.28,89.72,2,1,Tier 2 — High-End Starters
+K.Hamilton,BAL,DB,159.5,64.22,95.28,2,1,Tier 2 — High-End Starters
+X.McKinney,GB,DB,169.0,64.22,104.78,2,1,Tier 2 — High-End Starters
+Player_RB_1,TB,RB,116.96,65.19,51.77,0,2,Tier 3 — Average Performers
+Player_TE_2,BUF,TE,110.75,57.98,52.77,0,2,Tier 3 — Average Performers
+Player_LB_3,NE,LB,88.73,48.0,40.73,0,2,Tier 3 — Average Performers
+Player_RB_5,WAS,RB,125.78,65.19,60.59,0,2,Tier 3 — Average Performers
+Player_RB_6,BAL,RB,164.4,65.19,99.21,2,1,Tier 2 — High-End Starters
+Player_QB_7,CIN,QB,185.21,105.3,79.91,0,2,Tier 3 — Average Performers
+Player_QB_8,LV,QB,65.83,105.3,-39.47,3,3,Tier 4 — Negative Performers
+Player_RB_9,ATL,RB,86.19,65.19,21.0,3,3,Tier 4 — Negative Performers
+Player_DL_10,ATL,DL,49.28,49.28,0.0,3,3,Tier 4 — Negative Performers
+Player_WR_11,DAL,WR,133.7,91.89,41.81,0,2,Tier 3 — Average Performers
+Player_LB_12,LAC,LB,67.51,48.0,19.51,3,3,Tier 4 — Negative Performers
+Player_TE_13,NYG,TE,102.22,57.98,44.24,0,2,Tier 3 — Average Performers
+Player_LB_14,MIA,LB,93.99,48.0,45.99,0,2,Tier 3 — Average Performers
+Player_WR_15,TEN,WR,124.86,91.89,32.97,0,2,Tier 3 — Average Performers
+Player_DL_16,TEN,DL,167.92,49.28,118.64,2,1,Tier 2 — High-End Starters
+Player_RB_17,ARI,RB,127.25,65.19,62.06,0,2,Tier 3 — Average Performers
+Player_DL_18,ARI,DL,132.09,49.28,82.81,0,2,Tier 3 — Average Performers
+Player_WR_19,PIT,WR,113.37,91.89,21.48,3,3,Tier 4 — Negative Performers
+Player_DB_20,CIN,DB,76.02,64.22,11.8,3,3,Tier 4 — Negative Performers
+Player_LB_21,DEN,LB,145.31,48.0,97.31,2,1,Tier 2 — High-End Starters
+Player_QB_22,WAS,QB,117.77,105.3,12.47,3,3,Tier 4 — Negative Performers
+Player_QB_23,CIN,QB,159.32,105.3,54.02,0,2,Tier 3 — Average Performers
+Player_WR_24,HOU,WR,145.88,91.89,53.99,0,2,Tier 3 — Average Performers
+Player_QB_25,DEN,QB,77.51,105.3,-27.79,3,3,Tier 4 — Negative Performers
+Player_WR_26,DAL,WR,91.89,91.89,0.0,3,3,Tier 4 — Negative Performers
+Player_TE_27,IND,TE,90.93,57.98,32.95,0,2,Tier 3 — Average Performers
+Player_QB_28,CLE,QB,130.35,105.3,25.05,3,3,Tier 4 — Negative Performers
+Player_TE_29,KC,TE,106.79,57.98,48.81,0,2,Tier 3 — Average Performers
+Player_RB_30,ATL,RB,111.69,65.19,46.5,0,2,Tier 3 — Average Performers
+Player_RB_31,PHI,RB,100.37,65.19,35.18,0,2,Tier 3 — Average Performers
+Player_QB_32,DEN,QB,200.3,105.3,95.0,2,1,Tier 2 — High-End Starters
+Player_RB_33,PHI,RB,166.11,65.19,100.92,2,1,Tier 2 — High-End Starters
+Player_TE_34,GB,TE,66.6,57.98,8.62,3,3,Tier 4 — Negative Performers
+Player_DL_35,JAX,DL,103.35,49.28,54.07,0,2,Tier 3 — Average Performers
+Player_TE_36,CIN,TE,70.97,57.98,12.99,3,3,Tier 4 — Negative Performers
+Player_WR_37,NYG,WR,180.5,91.89,88.61,2,1,Tier 2 — High-End Starters
+Player_RB_38,SF,RB,164.61,65.19,99.42,2,1,Tier 2 — High-End Starters
+Player_RB_39,BUF,RB,111.76,65.19,46.57,0,2,Tier 3 — Average Performers
+Player_WR_40,GB,WR,185.71,91.89,93.82,2,1,Tier 2 — High-End Starters
+Player_WR_41,SF,WR,128.41,91.89,36.52,0,2,Tier 3 — Average Performers
+Player_DB_42,TEN,DB,84.44,64.22,20.22,3,3,Tier 4 — Negative Performers
+Player_RB_43,DET,RB,99.96,65.19,34.77,0,2,Tier 3 — Average Performers
+Player_TE_44,TB,TE,78.0,57.98,20.02,3,3,Tier 4 — Negative Performers
+Player_WR_45,LAC,WR,138.65,91.89,46.76,0,2,Tier 3 — Average Performers
+Player_RB_46,BUF,RB,110.59,65.19,45.4,0,2,Tier 3 — Average Performers
+Player_QB_47,DAL,QB,116.27,105.3,10.97,3,3,Tier 4 — Negative Performers
+Player_WR_48,ATL,WR,152.12,91.89,60.23,0,2,Tier 3 — Average Performers
+Player_DB_49,GB,DB,71.79,64.22,7.57,3,3,Tier 4 — Negative Performers
+Player_LB_50,JAX,LB,87.7,48.0,39.7,0,2,Tier 3 — Average Performers
+Player_TE_51,KC,TE,117.01,57.98,59.03,0,2,Tier 3 — Average Performers
+Player_QB_52,DEN,QB,153.16,105.3,47.86,0,2,Tier 3 — Average Performers
+Player_DL_53,TEN,DL,111.35,49.28,62.07,0,2,Tier 3 — Average Performers
+Player_WR_54,SF,WR,144.95,91.89,53.06,0,2,Tier 3 — Average Performers
+Player_RB_55,KC,RB,106.31,65.19,41.12,0,2,Tier 3 — Average Performers
+Player_RB_56,MIN,RB,84.55,65.19,19.36,3,3,Tier 4 — Negative Performers
+Player_RB_57,WAS,RB,178.96,65.19,113.77,2,1,Tier 2 — High-End Starters
+Player_WR_58,HOU,WR,152.98,91.89,61.09,0,2,Tier 3 — Average Performers
+Player_TE_59,KC,TE,105.02,57.98,47.04,0,2,Tier 3 — Average Performers
+Player_QB_60,CHI,QB,175.96,105.3,70.66,0,2,Tier 3 — Average Performers
+Player_DB_61,NO,DB,121.37,64.22,57.15,0,2,Tier 3 — Average Performers
+Player_WR_62,CIN,WR,195.28,91.89,103.39,2,1,Tier 2 — High-End Starters
+Player_DB_63,TEN,DB,125.44,64.22,61.22,0,2,Tier 3 — Average Performers
+Player_QB_64,SEA,QB,207.5,105.3,102.2,2,1,Tier 2 — High-End Starters
+Player_TE_65,WAS,TE,105.28,57.98,47.3,0,2,Tier 3 — Average Performers
+Player_TE_66,MIN,TE,116.37,57.98,58.39,0,2,Tier 3 — Average Performers
+Player_TE_67,CIN,TE,92.98,57.98,35.0,0,2,Tier 3 — Average Performers
+Player_WR_68,KC,WR,106.28,91.89,14.39,3,3,Tier 4 — Negative Performers
+Player_QB_69,PHI,QB,132.24,105.3,26.94,3,3,Tier 4 — Negative Performers
+Player_DB_70,KC,DB,64.22,64.22,0.0,3,3,Tier 4 — Negative Performers
+Player_RB_71,DEN,RB,143.46,65.19,78.27,0,2,Tier 3 — Average Performers
+Player_TE_72,KC,TE,118.18,57.98,60.2,0,2,Tier 3 — Average Performers
+Player_RB_73,GB,RB,152.85,65.19,87.66,2,1,Tier 2 — High-End Starters
+Player_WR_74,BAL,WR,141.95,91.89,50.06,0,2,Tier 3 — Average Performers
+Player_QB_75,KC,QB,208.31,105.3,103.01,2,1,Tier 2 — High-End Starters
+Player_WR_76,DAL,WR,102.88,91.89,10.99,3,3,Tier 4 — Negative Performers
+Player_DL_77,TB,DL,132.71,49.28,83.43,0,2,Tier 3 — Average Performers
+Player_RB_78,NYG,RB,120.23,65.19,55.04,0,2,Tier 3 — Average Performers
+Player_DL_79,MIA,DL,95.53,49.28,46.25,0,2,Tier 3 — Average Performers
+Player_TE_80,GB,TE,126.0,57.98,68.02,0,2,Tier 3 — Average Performers
+Player_WR_81,MIN,WR,104.84,91.89,12.95,3,3,Tier 4 — Negative Performers
+Player_TE_82,HOU,TE,57.98,57.98,0.0,3,3,Tier 4 — Negative Performers
+Player_WR_84,DET,WR,138.21,91.89,46.32,0,2,Tier 3 — Average Performers
+Player_QB_85,PIT,QB,97.74,105.3,-7.56,3,3,Tier 4 — Negative Performers
+Player_TE_86,ARI,TE,122.41,57.98,64.43,0,2,Tier 3 — Average Performers
+Player_RB_87,JAX,RB,120.97,65.19,55.78,0,2,Tier 3 — Average Performers
+Player_DL_88,PIT,DL,113.91,49.28,64.63,0,2,Tier 3 — Average Performers
+Player_RB_89,DAL,RB,111.33,65.19,46.14,0,2,Tier 3 — Average Performers
+Player_RB_90,HOU,RB,154.39,65.19,89.2,2,1,Tier 2 — High-End Starters
+Player_RB_91,KC,RB,122.58,65.19,57.39,0,2,Tier 3 — Average Performers
+Player_TE_92,SEA,TE,86.72,57.98,28.74,3,3,Tier 4 — Negative Performers
+Player_WR_93,PIT,WR,129.53,91.89,37.64,0,2,Tier 3 — Average Performers
+Player_DL_94,DET,DL,110.58,49.28,61.3,0,2,Tier 3 — Average Performers
+Player_RB_95,TB,RB,122.73,65.19,57.54,0,2,Tier 3 — Average Performers
+Player_WR_96,TB,WR,132.22,91.89,40.33,0,2,Tier 3 — Average Performers
+Player_RB_97,CAR,RB,168.85,65.19,103.66,2,1,Tier 2 — High-End Starters
+Player_WR_98,CIN,WR,104.49,91.89,12.6,3,3,Tier 4 — Negative Performers
+Player_LB_99,NYJ,LB,48.0,48.0,0.0,3,3,Tier 4 — Negative Performers
+Player_WR_100,LV,WR,152.91,91.89,61.02,0,2,Tier 3 — Average Performers
+Player_QB_101,DAL,QB,80.41,105.3,-24.89,3,3,Tier 4 — Negative Performers
+Player_RB_102,WAS,RB,139.85,65.19,74.66,0,2,Tier 3 — Average Performers
+Player_RB_103,ARI,RB,65.19,65.19,0.0,3,3,Tier 4 — Negative Performers
+Player_WR_104,DEN,WR,127.99,91.89,36.1,0,2,Tier 3 — Average Performers
+Player_QB_105,DEN,QB,105.3,105.3,0.0,3,3,Tier 4 — Negative Performers
+Player_RB_106,BUF,RB,109.45,65.19,44.26,0,2,Tier 3 — Average Performers
+Player_TE_107,CAR,TE,104.33,57.98,46.35,0,2,Tier 3 — Average Performers
+Player_TE_108,NE,TE,111.55,57.98,53.57,0,2,Tier 3 — Average Performers
+Player_RB_109,MIA,RB,150.64,65.19,85.45,2,1,Tier 2 — High-End Starters
+Player_WR_110,NYJ,WR,157.28,91.89,65.39,0,2,Tier 3 — Average Performers
+Player_RB_111,LAC,RB,117.48,65.19,52.29,0,2,Tier 3 — Average Performers
+Player_WR_112,NYJ,WR,119.59,91.89,27.7,3,3,Tier 4 — Negative Performers
+Player_WR_113,IND,WR,156.5,91.89,64.61,0,2,Tier 3 — Average Performers
+Player_WR_114,CAR,WR,119.48,91.89,27.59,3,3,Tier 4 — Negative Performers
+Player_RB_115,TEN,RB,129.74,65.19,64.55,0,2,Tier 3 — Average Performers
+Player_RB_116,JAX,RB,160.91,65.19,95.72,2,1,Tier 2 — High-End Starters
+Player_WR_117,MIA,WR,200.28,91.89,108.39,2,1,Tier 2 — High-End Starters
+Player_WR_118,BAL,WR,142.43,91.89,50.54,0,2,Tier 3 — Average Performers
+Player_WR_119,KC,WR,159.5,91.89,67.61,0,2,Tier 3 — Average Performers
+Player_WR_120,HOU,WR,150.16,91.89,58.27,0,2,Tier 3 — Average Performers
